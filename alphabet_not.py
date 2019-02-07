@@ -1,5 +1,5 @@
-A = raw_input()
-if(A.isalpha()):
+B = raw_input()
+if(B.isalpha()):
 	print("Alphabet")
 else :
 	print("NO")
